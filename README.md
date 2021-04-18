@@ -16,6 +16,7 @@ Let me state a few facts about me:
 <p align="left">
 <a href="https://linkedin.com/in/daniel-komaz-39aa50a0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="danielkomaz" height="30" width="40" /></a>
 <a href="https://twitter.com/danielkomaz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="danielkomaz" height="30" width="40" /></a>
+  </br>
 <a href="https://twitter.com/danielkomaz" target="blank"><img src="https://img.shields.io/twitter/follow/danielkomaz?logo=twitter&style=for-the-badge" alt="danielkomaz" /></a>
 </p>
 
