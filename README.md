@@ -1,6 +1,6 @@
 Dear gentlereader,
 
-My name is Daniel and i am a sysadmin by trade and currently learning DevOps.
+My name is Daniel and I am a sysadmin by trade and currently learning DevOps.
 
 Let me state a few facts about me:
 - 🔭 I’m currently working on [danielkomaz/cloudskillsbootcamp](https://github.com/danielkomaz/cloudskillsbootcamp) which is a documentation of the Cloud Native DevOps Bootcamp provided by Cloudskills.io
