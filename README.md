@@ -6,7 +6,7 @@ Dear gentlereader,
 My name is Daniel and I am a sysadmin by trade and currently learning DevOps.
 
 Let me state a few facts about me:
-- 🔭 I’m currently working on [danielkomaz/cloudskillsbootcamp](https://github.com/danielkomaz/cloudskillsbootcamp) which is a documentation of the Cloud Native DevOps Bootcamp provided by Cloudskills.io
+- 🔭 I’m currently working on [danielkomaz/python-crash-course](https://github.com/danielkomaz/python-crash-course) as I am trying to learn python
 - 🌱 I’m currently learning DevOps, Terraform, Ansible, Puppet, Consul, Vault
 - 💬 Ask me about anything, I am happy to help if I am able to
 - ⚡ Fun fact: I was never very fond of learning at school, but since I discovered DevOps there is so much to learn and I love it! 😄
